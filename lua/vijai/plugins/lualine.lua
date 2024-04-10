@@ -4,7 +4,7 @@ return {
   config = function()
     local lualine = require("lualine")
     local lazy_status = require("lazy.status") -- to configure lazy pending updates count
-    vim.cmd('colorscheme github_light')
+    vim.cmd('colorscheme carbonfox')
     lualine.setup()
   end
 }

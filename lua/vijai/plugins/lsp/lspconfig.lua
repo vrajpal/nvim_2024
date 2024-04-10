@@ -164,6 +164,7 @@ return {
       on_attach = on_attach,
       filetypes = {"go", "gomod", "gowork", "gotmpl"}
     })
+
   end,
 }
 
